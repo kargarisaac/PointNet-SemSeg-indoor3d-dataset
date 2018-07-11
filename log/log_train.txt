@@ -1,0 +1,51 @@
+**** EPOCH 000 ****
+----
+mean loss: 0.702116
+accuracy: 0.772028
+----
+eval mean loss: 0.596886
+eval accuracy: 0.796427
+eval avg class acc: 0.580015
+Model saved in file: log\model.ckpt
+**** EPOCH 001 ****
+----
+mean loss: 0.509343
+accuracy: 0.828530
+----
+eval mean loss: 0.601329
+eval accuracy: 0.796344
+eval avg class acc: 0.602350
+**** EPOCH 002 ****
+----
+mean loss: 0.445041
+accuracy: 0.848205
+----
+eval mean loss: 0.551653
+eval accuracy: 0.815381
+eval avg class acc: 0.595403
+**** EPOCH 003 ****
+----
+mean loss: 0.400806
+accuracy: 0.862671
+----
+eval mean loss: 0.521178
+eval accuracy: 0.829735
+eval avg class acc: 0.664896
+**** EPOCH 004 ****
+----
+mean loss: 0.364908
+accuracy: 0.873591
+----
+eval mean loss: 0.527118
+eval accuracy: 0.829089
+eval avg class acc: 0.658318
+**** EPOCH 005 ****
+----
+mean loss: 0.344432
+accuracy: 0.880694
+----
+eval mean loss: 0.519351
+eval accuracy: 0.832823
+eval avg class acc: 0.713742
+**** EPOCH 006 ****
+----
